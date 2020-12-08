@@ -2,8 +2,6 @@
 
 Currently hard coded to 5 people.
 
-Feel free to add a setting.
-
 This is client side only, this wont be enforced on the server.
 
 ## Todo
@@ -11,6 +9,7 @@ This is client side only, this wont be enforced on the server.
 * i18n
 * Test coverage
 * Setting to change number of users
+* Make contentEditable disabled
 
 ## License
 Apache 2
