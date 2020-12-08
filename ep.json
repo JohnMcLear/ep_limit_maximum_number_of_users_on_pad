@@ -1,0 +1,13 @@
+{
+  "parts": [
+    {
+      "name": "ep_limit_maximum_number_of_users_on_pad",
+      "client_hooks": {
+        "postAceInit": "ep_limit_maximum_number_of_users_on_pad/static/js/index"
+      },
+      "hooks":{
+      }
+    }
+  ]
+}
+
