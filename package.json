@@ -1,7 +1,7 @@
 {
   "name": "ep_limit_maximum_number_of_users_on_pad",
   "description": "Limit maximum number of users on a pad",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "johnyma22",
     "email": "john@mclear.co.uk",
